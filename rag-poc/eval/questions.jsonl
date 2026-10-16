@@ -1,0 +1,36 @@
+{"id": "q01", "question": "Does a CT scan for a CTAS 5 patient need prior authorisation?", "sections": ["4.2", "Annex A"], "answerable": true, "must_mention": ["required"]}
+{"id": "q02", "question": "Is prior authorisation needed for any service when the patient is triaged CTAS 2?", "sections": ["4.1"], "answerable": true, "must_mention": ["no prior authorisation"]}
+{"id": "q03", "question": "Do we need authorisation for an ultrasound on a non-urgent patient?", "sections": ["4.2", "Annex A"], "answerable": true, "must_mention": ["not"]}
+{"id": "q04", "question": "A CTAS 4 patient deteriorated and we did a CT without authorisation. What can we do?", "sections": ["4.3"], "answerable": true, "must_mention": ["24 hours"]}
+{"id": "q05", "question": "How quickly does the insurer respond to an ED prior authorisation request, and what happens if it doesn't?", "sections": ["4.4"], "answerable": true, "must_mention": ["60 minutes"]}
+{"id": "q06", "question": "Is suturing a 3 cm laceration on a CTAS 5 patient subject to prior authorisation?", "sections": ["Annex A"], "answerable": true, "must_mention": ["5 cm"]}
+{"id": "q07", "question": "What is the deadline for submitting an ED claim?", "sections": ["7.1"], "answerable": true, "must_mention": ["30 days"]}
+{"id": "q08", "question": "What happens if we submit a claim 60 days after discharge?", "sections": ["7.1"], "answerable": true, "must_mention": ["5 percent"]}
+{"id": "q09", "question": "How many times can a rejected claim be resubmitted, and by when?", "sections": ["7.2"], "answerable": true, "must_mention": ["once"]}
+{"id": "q10", "question": "Which claims must include the discharge summary?", "sections": ["7.3"], "answerable": true, "must_mention": ["5,000"]}
+{"id": "q11", "question": "How long does the insurer take to adjudicate a clean claim?", "sections": ["8.1"], "answerable": true, "must_mention": ["30 days"]}
+{"id": "q12", "question": "When are approved claims paid?", "sections": ["8.2"], "answerable": true, "must_mention": ["45 days"]}
+{"id": "q13", "question": "Is there any compensation if the insurer pays late?", "sections": ["8.3"], "answerable": true, "must_mention": ["1 percent"]}
+{"id": "q14", "question": "Above what billed amount does a claim get a line-by-line medical review?", "sections": ["9.2"], "answerable": true, "must_mention": ["4,000"]}
+{"id": "q15", "question": "How much longer can adjudication take for high-cost claims?", "sections": ["9.2"], "answerable": true, "must_mention": ["20 days"]}
+{"id": "q16", "question": "A CTAS 4 patient stayed 9 hours in observation without authorisation. How is the observation paid?", "sections": ["9.3", "Annex A"], "answerable": true, "must_mention": ["6-hour rate"]}
+{"id": "q17", "question": "How long after payment can the insurer audit a claim?", "sections": ["10.1"], "answerable": true, "must_mention": ["12 months"]}
+{"id": "q18", "question": "How much notice do we get before an audit, and how fast must we send records?", "sections": ["10.2"], "answerable": true, "must_mention": ["30 days", "15 working days"]}
+{"id": "q19", "question": "When does the insurer recover money it overpaid?", "sections": ["10.3"], "answerable": true, "must_mention": ["offset"]}
+{"id": "q20", "question": "What is the time limit to appeal a rejected claim?", "sections": ["11.1"], "answerable": true, "must_mention": ["30 days"]}
+{"id": "q21", "question": "Who decides a second-level appeal and is that decision final?", "sections": ["11.2"], "answerable": true, "must_mention": ["medical director"]}
+{"id": "q22", "question": "Will an appeal that just repeats the original claim be considered?", "sections": ["11.3"], "answerable": true, "must_mention": ["dismissed"]}
+{"id": "q23", "question": "What happens to a claim if eligibility was not verified?", "sections": ["3.2"], "answerable": true, "must_mention": ["10 working days"]}
+{"id": "q24", "question": "How long do we have to verify eligibility for an unconscious patient?", "sections": ["3.3"], "answerable": true, "must_mention": ["72 hours"]}
+{"id": "q25", "question": "What must a CT request note contain for a non-urgent patient?", "sections": ["5.2"], "answerable": true, "must_mention": ["outpatient"]}
+{"id": "q26", "question": "What happens if the clinical note is not signed?", "sections": ["5.1"], "answerable": true, "must_mention": ["incomplete"]}
+{"id": "q27", "question": "Can we use unspecified diagnosis codes, and is there a penalty?", "sections": ["6.2"], "answerable": true, "must_mention": ["10 percent"]}
+{"id": "q28", "question": "Are fitness-to-work examinations in the ED covered?", "sections": ["12.1"], "answerable": true, "must_mention": ["not covered"]}
+{"id": "q29", "question": "If a patient is re-triaged from CTAS 4 to CTAS 2, which authorisation rules apply?", "sections": ["2.2"], "answerable": true, "must_mention": ["from the time"]}
+{"id": "q30", "question": "Which policy governs outpatient pharmacy claims?", "sections": ["1.3"], "answerable": true, "must_mention": ["Pharmacy Benefit Policy"]}
+{"id": "q31", "question": "What is the member copayment for an ED visit?", "sections": [], "answerable": false}
+{"id": "q32", "question": "Is air ambulance transport covered?", "sections": [], "answerable": false}
+{"id": "q33", "question": "What is the reimbursement rate for a CTAS 1 resuscitation?", "sections": [], "answerable": false}
+{"id": "q34", "question": "How many ED visits per year is a member allowed?", "sections": [], "answerable": false}
+{"id": "q35", "question": "What is the price for an MRI of the knee?", "sections": [], "answerable": false}
+{"id": "q36", "question": "Does the policy require a COVID-19 test before admission?", "sections": [], "answerable": false}
